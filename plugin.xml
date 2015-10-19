@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="com.mostlyepic.secondary-icon"
-      version="0.0.2">
+           id="com.mostlyepic.yipper-secondary-icon"
+      version="0.0.1">
 
-    <name>SecondaryIconPlugin</name>
+    <name>YipperSecondaryIconPlugin</name>
     <description>Secondary Icon Plugin for Phonegap Build applications</description>
     <license>MIT</license>
     <keywords>cordova,pgb,phonegap,build,icon,res</keywords>
-    <repo>https://github.com/kentmw/secondary-icon.git</repo>
+    <repo>https://github.com/kentmw/yipper-secondary-icon.git</repo>
 
     <engines>
       <engine name="cordova" version=">=3.0.0" />
