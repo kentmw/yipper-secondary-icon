@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.mostlyepic.yipper-secondary-icon"
-      version="0.0.3">
+      version="0.1.0">
 
     <name>YipperSecondaryIconPlugin</name>
     <description>Secondary Icon Plugin for Phonegap Build applications</description>
