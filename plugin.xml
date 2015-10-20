@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.mostlyepic.yipper-secondary-icon"
-      version="0.1.3">
+      version="0.1.4">
 
     <name>YipperSecondaryIconPlugin</name>
     <description>Secondary Icon Plugin for Phonegap Build applications</description>
@@ -22,6 +22,6 @@
         <resource-file src="src/android/res/drawable-hdpi/secondary_icon.png" target="res/drawable-hdpi/secondary_icon.png" />
         <resource-file src="src/android/res/drawable-xhdpi/secondary_icon.png" target="res/drawable-xhdpi/secondary_icon.png" />
         <resource-file src="src/android/res/drawable-xxhdpi/secondary_icon.png" target="res/drawable-xxhdpi/secondary_icon.png" />
-        <resource-file src="src/android/res/drawable-xxxhdpi/secondary_icon.png" target="res/drawable-xpxxhdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xxxhdpi/secondary_icon.png" target="res/drawable-xxxhdpi/secondary_icon.png" />
     </platform>
 </plugin>
