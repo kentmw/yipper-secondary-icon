@@ -10,6 +10,7 @@ src/android/res/drawable-hdpi/secondary_icon.png
 src/android/res/drawable-mdpi/secondary_icon.png
 src/android/res/drawable-xhdpi/secondary_icon.png
 src/android/res/drawable-xxhdpi/secondary_icon.png
+src/android/res/drawable-xxxhdpi/secondary_icon.png
 ```
 
 You need a push notification plugin that uses:
