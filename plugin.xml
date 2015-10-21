@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.mostlyepic.yipper-secondary-icon"
-      version="0.1.5">
+      version="0.1.6">
 
     <name>YipperSecondaryIconPlugin</name>
     <description>Secondary Icon Plugin for Phonegap Build applications</description>
@@ -18,10 +18,10 @@
     <platform name="android">
         <!--  drawable src/android/resources -->
         <resource-file src="src/android/res/drawable-ldpi/secondary_icon.png" target="res/drawable-ldpi/secondary_icon.png" />
-        <resource-file src="src/android/res/drawable-mdpi/secondary_icon.png" target="res/drawable-mdpi/secondary_icon.9.png" />
-        <resource-file src="src/android/res/drawable-hdpi/secondary_icon.png" target="res/drawable-hdpi/secondary_icon.9.png" />
-        <resource-file src="src/android/res/drawable-xhdpi/secondary_icon.png" target="res/drawable-xhdpi/secondary_icon.9.png" />
-        <resource-file src="src/android/res/drawable-xxhdpi/secondary_icon.png" target="res/drawable-xxhdpi/secondary_icon.9.png" />
-        <resource-file src="src/android/res/drawable-xxxhdpi/secondary_icon.png" target="res/drawable-xxxhdpi/secondary_icon.9.png" />
+        <resource-file src="src/android/res/drawable-mdpi/secondary_icon.png" target="res/drawable-mdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-hdpi/secondary_icon.png" target="res/drawable-hdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/secondary_icon.png" target="res/drawable-xhdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xxhdpi/secondary_icon.png" target="res/drawable-xxhdpi/secondary_icon.png" />
+        <resource-file src="src/android/res/drawable-xxxhdpi/secondary_icon.png" target="res/drawable-xxxhdpi/secondary_icon.png" />
     </platform>
 </plugin>
